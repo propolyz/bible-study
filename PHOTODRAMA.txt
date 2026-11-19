@@ -1,6 +1,6 @@
-PHOTODRAMA
+# PHOTODRAMA
 
-[PD1]
+## [PD1]
 
 God's Glory in the Heavens
 
@@ -18,7 +18,7 @@ Yet our Sun is only one of the fixed stars, of which the most up-to-date astrono
 
 The zodiacal signs illustrate various sections of the heavens, visible at different seasons.
 
-[PD2]
+## [PD2]
 
 The First Day or Epoch
 
@@ -34,7 +34,7 @@ Gradually the motion of the rings became different from that of the Earth in pro
 
 There are scientists who claim that the Earth still has one ring about it, an electrical ring which, falling, will in a few years destroy fermentation, microbes and parasites, and greatly assist plant and animal life.
 
-[PD3]
+## [PD3]
 
 The Second Day or Epoch
 
@@ -50,7 +50,7 @@ God made the firmament in the second, or Palaeozoic Day, and separated the water
 
 These rings, or belts, of water and minerals followed each other as great deluges upon the Earth—perhaps thousands of years apart. The Deluge of Noah's day was the last, of pure water only, heavier minerals being attracted first. Hence minerals are generally under several layers of shale and soil.
 
-[PD4]
+## [PD4]
 
 The Third Day or Epoch
 
@@ -64,7 +64,7 @@ We need not assume that all the continents as we now know them were thrown up on
 
 Appropriately we next read: "And the Earth brought forth grass, and herb yielding seed after his kind, and the tree yielding fruit." That is to say, vegetation began on the Third, or Carboniferous Day, though it did not reach its perfection until after the light of the Sun penetrated. There are grasses and other vegetation which prosper best in darksome shades.
 
-[PD5]
+## [PD5]
 
 The Fourth Day or Epoch
 
@@ -84,7 +84,7 @@ We are not to assume that the Sun and the Moon shone on the earth then as now. B
 
 We may as properly lay stress on the word rule as on the word made in this text. God caused the Sun to rule the day and the Moon to rule the night. Besides, symbolically, it is claimed that the Moon represents the Law Covenant rule, and the Sun the New Covenant rule.
 
-[PD6]
+## [PD6]
 
 The Fifth Day or Epoch
 
@@ -98,7 +98,7 @@ The Darwinian theory has disappointed those who swallowed it without a sufficien
 
 The correct thought would seem to be that under Divine supervision various orders of creation were brought to a state of development and a fixity of species, not to be turned aside nor thereafter altered. Not one suggestion is offered respecting human evolution from a lower creature; but quite the contrary. The Bible furnishes merely a basis for faith, "that the man of God may be thoroughly equipped."—2 Timothy 3:17.
 
-[PD7]
+## [PD7]
 
 The Sixth Day or Epoch
 
@@ -114,7 +114,7 @@ When thinking of man in the image of God, we instinctively look back to "The Man
 
 "After Our likeness let him have dominion." Adam's dominion over the lower animals was like God's dominion over the Universe. Angels, although in God's image, do not have a Godlike dominion over creatures of a lower order. Man's dominion, overthrown by sin, is to be restored by Messiah's Kingdom.—Acts 3:19-21.
 
-[PD8]
+## [PD8]
 
 The Seventh Day or Epoch
 
@@ -128,7 +128,7 @@ It is claimed that, according to the Bible chronology, six thousand years from A
 
 According to this beautiful theory, the work of Messiah in His thousand-year Reign soon to begin will complete the Creation. Not only will the race be brought to human perfection, but incidentally man will have obtained the needed experience in respect to good and evil. Meantime, also, the Earth will be gradually coming to a state of perfection—Paradise restored world-wide. Both human perfection and the perfection of the Earth were fittingly represented in Eden, when Adam was in his Maker's image—a King.
 
-[PD9]
+## [PD9]
 
 Mother Eve Created
 
@@ -142,7 +142,7 @@ Eve was associated with Adam in the sin and disobedience which brought the penal
 
 Another suggestion has been offered: Jesus declared that those who attain to that resurrection will neither marry nor be given in marriage. As Adam originally possessed all the qualities of character, masculine and feminine, so humanity, when fully restored to the image and likeness of God, will re-attain perfection of individuality. Sex divisions will then be no more. Earth will be filled with sufficient population.—Luke 20:35,36.
 
-[PD10]
+## [PD10]
 
 Mother Eve Beguiled
 
@@ -156,7 +156,7 @@ Mother Eve did not broach these suspicions to her husband. She would eat, acquir
 
 Adam realized the seriousness of Eve's disobedience. He thought of the long days before he had her companionship. Now, he would be lonely again. In desperation Adam determined to join Eve in the Sin and its penalty. Adam's death was a slow suicide! His dying lasted 930 years.
 
-[PD11]
+## [PD11]
 
 Expulsion From Eden
 
@@ -168,7 +168,7 @@ Now Christian people examine their Bibles more carefully. They find that the cur
 
 It is this curse of death that was pronounced against Father Adam, according to the Genesis account, and also according to the New Testament. "Accursed is the earth for thy sake; thorns and thistles shall it bring fourth unto thee. In the sweat of thy face shalt thou eat bread until thou return unto the ground from whence thou wast taken, for dust thou art and unto dust shalt thou return." It is from this curse that Jesus redeemed us by dying, the Just for the unjust. It is from this death-curse that Messiah rescues all by a resurrection from the dead. "By man came death, by man also the resurrection of the dead."—1 Corinthians 15:21.
 
-[PD12]
+## [PD12]
 
 Pride-Jealousy-Anger-Murder
 
@@ -180,7 +180,7 @@ Years passed. Cain and Abel were inspired by the promise respecting the Seed of 
 
 St. Paul says that Abel's blood cried to God for justice against Cain. But Jesus' blood cried to God for mercy on the sinner. Every injustice cries to God for justice. By a special covenant, Jesus and His Elect Church lay down their lives sacrificially for Adam and his race. (Romans 12:1.) The "better sacrifices" completed, Restitution follows.
 
-[PD13]
+## [PD13]
 
 Abel the First Martyr
 
@@ -192,7 +192,7 @@ The reign of Sin and Death continued for four thousand years before God sent His
 
 For six thousand years, according to St. Paul, we have had a reign of Sin and Death. Christians are still praying for the blessed Day of Messiah, for Satan's binding. Then blessings will displace sin, sorrow and death.—Revelation 21:4.
 
-[PD14]
+## [PD14]
 
 Sorrow and Mourning Begun
 
@@ -213,7 +213,7 @@ Hope, joy and peace come to us through the Divine promise that the time is comin
 
 Our experiences with Sin and its penalty should make us all sympathetic. We should do nothing to add to the sorrow of others, but everything to relieve. The words of Jesus touch this chord of sympathy, "Come unto Me, all ye that labor and are heavy laden, and I will give you rest." There is no rest for the weary of heart except in union with Christ.
 
-[PD15]
+## [PD15]
 
 Sons of God, Daughters of Men
 
@@ -225,7 +225,7 @@ The angels possessed a God-given power of materialization. They could appear in 
 
 The record of Genesis 6:2-5 is that the "sons of God saw that the daughters of men were fair, and they took unto themselves wives of all they preferred." Thus the angels became the fathers of a new race, distinct from Adam's. The record is that these were giants, physically and intellectually—"men of renown," who filled the Earth with violence.
 
-[PD16]
+## [PD16]
 
 While the Ark was Preparing
 
@@ -239,7 +239,7 @@ Finally, the Deluge came. "The fountains of the great deep [canopy] were broken 
 
 The cradle of the world is supposed to have been in Armenia. Geology tells us that the land of that vicinity was at one time a quiet settling pond, as evidenced by heavy alluvial deposits. In this vicinity the Ark floated, and by Divine protection landed on Mt. Ararat its precious freight for the world's new start.
 
-[PD17]
+## [PD17]
 
 Nephilim Destroyed
 
@@ -251,7 +251,7 @@ The liberties of the fallen angels—demons—were restrained. They are unable t
 
 These fallen angels were cast to tartarus—our Earth's atmosphere. Satan, a cherub-angel of higher rank, is styled the Prince of Demons. They are not in some far-off place stoking fires, but keep as close to humanity as possible. Not permitted to materialize, they seek to obsess, to demonize by clairvoyance and clairaudience. Mankind would properly resent them if their true character were known. They therefore personate the dead, communicating through spirit-mediums.
 
-[PD18]
+## [PD18]
 
 The End of That Age
 
@@ -263,7 +263,7 @@ In the new order of things started by Noah and his family, God allowed humanity 
 
 The development of God's Plan has been long from the human standpoint, but not so from the Divine, for we read: "A thousand years in Thy sight are but as yesterday;" and again, "A day with the Lord is as a thousand years." During six of these thousand-year Days, in which He rests or desists from interfering with the world's affairs, God has permitted a reign of Evil, but His arrangements are complete whereby Messiah, the Redeemer, will fully restore all the willing and obedient to all that Adam forfeited.—Acts 3:19-22.
 
-[PD19]
+## [PD19]
 
 The Rainbow Pledge
 
@@ -275,7 +275,7 @@ With the collapse of the watery envelope, came the extreme heat of the tropics a
 
 The change must have been almost instantaneous. We have proofs of this. In northern Siberia an antelope was found imbedded in ice. It had green grass in its stomach, which proved that its death occurred suddenly while it was feeding. Similarly, a mastodon was found imbedded in ice with food between its teeth. Thus is demonstrated that the poles were once as equable as the temperate zone, and that in a moment came such a change as could be brought about only by the breaking of the canopy. The great glaciers and heavy ice of the Arctic regions, formed thus suddenly, have existed for centuries. The water did not all congeal into ice, but like a tidal wave carried great glaciers and boulders across the North American continent, and Northwestern Europe, as scientists have clearly traced. They cut through hills with such force that they have left their mark for all time. Equatorial currents, the Gulf Stream and the Japan Stream have since thawed out much of the polar ice.
 
-[PD20]
+## [PD20]
 
 Demigods of Greece and Egypt
 
@@ -287,7 +287,7 @@ The chief fault found with this Tablet is that it is not so lengthy as some of t
 
 This list of Pharaohs is shorter than the others because it omits the names of gods and demigods. It is the complete Egyptian record of the purely human line of rulers back to Adam. Furthermore, these omissions occur at the appropriate place—at the time of the Deluge.
 
-[PD21]
+## [PD21]
 
 Adam (Mena) was Pharaoh I
 
@@ -301,7 +301,7 @@ Moses was "learned in all the wisdom of the Egyptians." Besides this, he was Jeh
 
 Lines drawn to scale, showing overlapping of Adam's 930 years, Methuselah's 969, Shem's 600, Isaac's 180, Levi's 137, Amram's 137 and Moses' 120. The overlapping periods were respectively 243 years, 68 years, 50 years, 40 years, 58 years and 31 years.
 
-[PD22]
+## [PD22]
 
 The Tower of Babel
 
@@ -313,7 +313,7 @@ The diversity of languages is one of the most remarkable things in the world—a
 
 Now the language barriers are breaking down, and we find the tendency of humanity to re-unite. Unions and Trusts are being built by the Rich and the Poor—each for self-protection. The rule of kings and princes is threatened by the growth of common language and intelligence in the masses. Had these barriers been removed two thousand years ago, similar results would have come too soon, according to the divine purpose which is shaping Earth's affairs in preparation for Messiah's Kingdom, which will bless the entire human family.
 
-[PD23]
+## [PD23]
 
 Abraham God's Friend
 
@@ -327,7 +327,7 @@ The servant sent to call Rebecca, the bride of Isaac, is beautifully explained t
 
 Rebecca's return with Eliezer represents the Church's journey during this Gospel Age to meet Christ, the Bridegroom who will receive her at His Second Advent. Abraham typified Jehovah God, through whose promise the blessing of all the families of Earth will come. This promise has been the hope of Israel for thirty-five centuries.—Galatians 3:29.
 
-[PD24]
+## [PD24]
 
 The Destruction of Sodom
 
@@ -341,7 +341,7 @@ Jesus declared that in that glorious Epoch the condition of the Sodomites will b
 
 Ezekiel's prophecy (16:49-61) is most explicit. It declares Restitution and blessing for Israel, and incidentally mentions that the Sodomites will receive favor from God at the same time—under the New Covenant, under Messiah's Kingdom. "There's a wideness in God's mercy, like the wideness of the sea."
 
-[PD25]
+## [PD25]
 
 Melchisedec, Priest and King
 
@@ -355,7 +355,7 @@ The declaration that Melchisedec was without father or mother, without beginning
 
 Melchisedec is supposed to have been one of the Shepherd Kings who invaded Egypt and built the Great Pyramid, covering twelve acres, known for ages as one of the Seven Wonders of the world—about 2170 B.C. Astronomers tell that its measurements indicate the length of the year, the weight of the Earth, the distance to the sun, etc. Its interior passages represent human history—Downward, the course of sin and death; Upward, the Law Age, the Gospel Age, the Kingdom glory of the Church, and Human Restitution.
 
-[PD26]
+## [PD26]
 
 Job's Adversity and Restitution
 
@@ -367,7 +367,7 @@ All of this loss of health, strength, friends and wealth taught Job valuable les
 
 Under God's providence Job was restored to prosperity, health, etc. He got back just as many children, twice as many oxen, sheep, camels and asses. Bible students tell us that it ultimately will be so with humanity, according to the Bible; that the curse of sin and death will be removed—that instead the blessing of God will flow down upon the human family for a thousand years, giving back life to all who have gone down into death, and multiplying the blessings of the Earth more than double. This lesson is further illustrated in Israel's Jubilee Year, when all debts were canceled and the people returned to their original possessions. (Leviticus 25:13.) This typed the period referred to as the "Times of Restitution."—Acts 3:19-23.
 
-[PD27]
+## [PD27]
 
 Seeking a Bride for Isaac
 
@@ -383,7 +383,7 @@ Rebecca was found serving water to the flock, representing well those whom Jesus
 
 The blessing upon Rebecca was, "Be thou the mother of thousands of millions." (Genesis 24:60.) To some Bible students this implies that the Church of Christ will mother in regeneration the millions of Adam's race, as the glorified Redeemer will be their "Everlasting Father."—Isaiah 9:6.
 
-[PD28]
+## [PD28]
 
 Jacob's Ladder Dream
 
@@ -397,7 +397,7 @@ Esau loved pleasure and sport. Jacob, his twin brother, born a moment later, lov
 
 Jacob's mother, knowing Esau's lack of character, concluded that Jacob, having purchased the birthright, might properly impersonate Esau and obtain the blessing. She knew that it would mean to him loss of home and risk of life. Fleeing from home Jacob lay down at night by the way, and had the dream of a ladder reaching from his headstone clear up to Heaven, with angels ascending and descending. The dream represented the fulfilment of the Abrahamic Covenant, in which Jacob was deeply interested, the reestablishment of peace and fellowship between Heaven and Earth.
 
-[PD29]
+## [PD29]
 
 Joseph's Coat Identified
 
@@ -411,7 +411,7 @@ The translators of the Revised Version Bible refused to translate these words, S
 
 The learned translators, however, could not agree to render these words grave and tomb, and left them untranslated. Compare versions and margin of Isaiah 14:9,11.
 
-[PD30]
+## [PD30]
 
 "My Gray Hairs to Sheol"
 
@@ -425,7 +425,7 @@ When the time came to journey to Egypt for more wheat, Jacob refused to let Benj
 
 This is the second occurrence in the Bible of the word Sheol, which really signifies the tomb, but is mistranslated hell thirty-one times in our Common Version. It is the only word rendered hell in the Bible for 4,150 years after Adam's fall. Hades is the New Testament equivalent for Sheol. See St. Peter's quotation of Psalm 16:10 in Acts 2:27.
 
-[PD31]
+## [PD31]
 
 Joseph and His Brethren
 
@@ -437,7 +437,7 @@ The strength of Joseph centered in his knowledge of the Divine Promise made to A
 
 When later the Israelites moved into Egypt, we see the faith of Joseph manifested in his dying request. He said, "God will surely visit you and bring you out of this land [Egypt] into the land [Canaan] which He sware to Abraham." He was solicitous that his bones be carried with the Israelites into Canaan. (Genesis 50:24,25.) Joseph's various experiences seem to Bible students to typify those of Jesus and His Church—in suffering and in subsequent glory and honor.
 
-[PD32]
+## [PD32]
 
 At the Burning Bush
 
@@ -447,7 +447,7 @@ He fled to Midian, and was gone forty years. Then God's time having come, he was
 
 The truthfulness of the narrative is confirmed by Jesus. Certain Sadducees, denying the resurrection, sought to entrap Him, inquiring whose wife a woman would be if during her lifetime she had had seven husbands. Jesus in reply defended the doctrine of the resurrection. He declared that when God said to Moses, "I am the God of Abraham, Isaac and Jacob," this surely meant that Abraham, Isaac and Jacob were to be resurrected. The Sadducees denied the resurrection and all future life. On the contrary, God's word at the mouth of the angel proved that there is to be a resurrection of the dead. God thus spoke of things that were not as though they already were. "All live unto God" in the sense that in Christ He has provided for the reawakening of all, "in due time."
 
-[PD33]
+## [PD33]
 
 The Passover Instituted
 
@@ -459,7 +459,7 @@ The tenth plague was the crisis. All the first-borns of Egypt died, but the firs
 
 Bible students hold the Passover night to have typified this Gospel Age of nearly nineteen centuries, during which the spirit begotten ones, the church of the First-borns, are to be passed over, or specially saved, and made partakers of the Divine nature and associates in the Messianic Kingdom for the blessing of the later born, during Messiah's Reign. The blood sprinkled on the door-posts typed faith in the blood of Christ.
 
-[PD34]
+## [PD34]
 
 Israel's Wilderness Experiences
 
@@ -475,7 +475,7 @@ The lesson of the Smitten Rock is noteworthy. When the people were famished, Mos
 
 A plague of "fiery serpents" attacked the Israelites. By Divine direction Moses made a serpent of brass and raised it up. The Israelites were directed to look to that serpent for healing. The "fiery serpents" represent Sin, inflicting death. God has provided life for the sin-bitten world through the crucifixion of Christ. He was treated as a sinner, in order that sinners might be freed from sin and death.
 
-[PD35]
+## [PD35]
 
 The Law Covenant at Mt. Sinai
 
@@ -487,7 +487,7 @@ When they became discouraged, God assured them that later He would make a New, o
 
 In due time Jesus came, the promised Messiah, not in glory as they had expected, but in a lowly condition, to die for Sin. "He came unto His own [nation] and His own received Him not"—they crucified Him. (John 1:11) Nevertheless, Jesus began His work of selecting Spiritual Israel, the Spiritual Seed of Abraham. He accepted first the loyal Jews. (Romans 11:7.) Still there were not enough to complete the foreordained number of the Elect. Consequently the Call to be the Elect Abrahamic Seed was extended to the Gentiles. For more than eighteen centuries He has been gathering the Elect Spiritual Seed of Abraham, the holy from every nation and sect. When complete, these, the "Bride," or "Body" of Christ, will be God's channel of blessing to all the families of the Earth, in harmony with the Promise made to Abraham.—Galatians 3:29.
 
-[PD36]
+## [PD36]
 
 The Typical Tabernacle
 
@@ -503,7 +503,7 @@ The High Priest washing and dressing in the Court represented The Christ complet
 
 Aaron blessing the people typified Messiah at His Second Advent blessing all who will become true Israelites during the Messianic Reign. The people shouting and falling on their faces represented recognition of the end of the reign of Sin and Death. Their arising represented resurrection.
 
-[PD37]
+## [PD37]
 
 Crossing the Jordan
 
@@ -517,7 +517,7 @@ Antitypically, the crossing of Jordan would represent the fact that God's people
 
 Respecting the types and prophecies of the past the Apostles tell us that the Law was a shadow of better things coming after, and that those things were written for the special instruction of the Church.—Romans 15:4; Hebrews 10:1.
 
-[PD38]
+## [PD38]
 
 Joshua's Long Day
 
@@ -533,7 +533,7 @@ Jephthah's daughter was not sacrificed in death as a fulfilment of her father's 
 
 The overthrow of the Midianites by Gideon's band and Jephthah's dedication of his daughter to the Lord in perpetual virginity, belong to the period of the Judges, of whom Joshua was first.—Acts 13:19,20.
 
-[PD39]
+## [PD39]
 
 David Anointed By Samuel
 
@@ -545,7 +545,7 @@ David was anointed long years before he became king. So Christ received the anoi
 
 In typical Israel, the priestly office was kept distinctly separate from the kingly office, but in Christ the two offices combine. This was illustrated in the double office of Melchisedec, who was a priest upon his throne, or a royal priest. Similarly, The Christ, Head and Body, will be the antitypical Royal Priesthood, to reign for a thousand years. This is in harmony with St. Peter's statement, "Ye are a Royal Priesthood, a holy nation, a peculiar people." It agrees with the statement that those who share in the First Resurrection will be kings and priests unto God and reign with Christ a thousand years.—Revelation 20:6; 5:10; 1 Peter 2:9.
 
-[PD40]
+## [PD40]
 
 King Saul's Life Spared
 
@@ -557,7 +557,7 @@ David, on the contrary, on two occasions had King Saul's life at his disposal, y
 
 How valuable it would be to all of us to learn this lesson of patience and waiting upon the Lord, for Him to direct in His own time and in His own way. This was the spirit of Jesus: "Not My will [as a man], but Thine [Father Divine], be done."—Luke 22:42.
 
-[PD41]
+## [PD41]
 
 The Fate of the Amalekites
 
@@ -571,7 +571,7 @@ Another illustration along this line is that of Sennacherib's army, which was sm
 
 Gross misconceptions of God's character and the Bible teachings accumulated during the Dark Ages, when the Bible was not in existence so far as the masses were concerned. Bibles were very expensive and possessed only by the few; besides, very few could read. They did not know that the worship of an eternal torment deity is the worship of Moloch, which God specially condemned. The dawning light of a New Age shows us God's character of love and illuminates the Bible, making its teachings most reasonable.—Proverbs 4:18.
 
-[PD42]
+## [PD42]
 
 The Witch of Endor
 
@@ -585,7 +585,7 @@ When King Saul got out of fellowship with God, who refused further communication
 
 The evil spirits have some way of knowing much respecting the future. But anybody under the circumstances might have known the fate to expect for Saul and his army. The King himself knew what to expect. It was this that troubled him and led him to seek the witch, contrary to the Divine command. It is not for a moment supposable that God and Samuel, having refused to communicate with the King, would change and permit a witch, condemned by the Divine Law, to overrule the matter.—1 Chronicles 10:13,14.
 
-[PD43]
+## [PD43]
 
 The Prophet's Reproof
 
@@ -599,7 +599,7 @@ God accepted King David's penitence and restored him to His favor; but this did 
 
 The honesty of the Bible is exemplified in both the Old Testament and the New. We are told of Abraham's mistakes—"the friend of God." We are also told the faults of the Apostles. The noble St. Peter was so overcome with fear that he denied his Master three times with oaths. We are told of St. Peter's dissembling before Jews and Gentiles. We are told that St. Paul, the Apostle that took the place of Judas, was once the cruel Saul of Tarsus, who authorized the stoning of St. Stephen, and was very injurious to the early Church. Of St. Peter and St. John we read: "They were ignorant and unlearned men." No other book in the world manifests so great honesty or deserves the same confidence as the Bible.
 
-[PD44]
+## [PD44]
 
 Solomon in All His Glory
 
@@ -611,7 +611,7 @@ Evidently our appreciation of values depends much upon the eye. So the eyes of o
 
 Already we see many of the inconsistencies of the past. No longer would a Roman Catholic Archbishop of Canterbury condemn to the flames Sir John Oldcastle because of episcopalian differences. Our eyes, both Catholic and Protestant, have opened and are still opening. What we evidently need is that the eyes of our understanding should be opened widely that we might see the lengths and breadths, the heights and depths of the love of God. God is pleased to open the eyes of only a small class at the present time; namely, that class which turns from sin and makes a full consecration to walk in the footsteps of Jesus. Their eyes shall be opened that they may see the King in His beauty, even by the eye of faith, looking through the telescope of God's Word. "Beholding as in a glass the glory of the Lord," the followers of Jesus are "changed into the same image, from glory to glory."—2 Corinthians 3:18.
 
-[PD45]
+## [PD45]
 
 The Temple of the Lord
 
@@ -627,7 +627,7 @@ The stones of Solomon's Temple were shaped at the quarry before being brought to
 
 This typified the building of the antitypical Temple, the preparation of the Church in the present life and their construction by and by as God's Spiritual Temple, by resurrection power. This is the meaning of the trials, chiselings and polishings which all true Christians must receive. The resurrection change will bring all these living stones together without force or compulsion. Then the glory of the Lord will fill the true Temple and the New Dispensation will begin.
 
-[PD46]
+## [PD46]
 
 Elijah and the Priests of Baal
 
@@ -641,7 +641,7 @@ Bible students claim that Elijah represented the True Church, Queen Jezebel a fa
 
 Elisha, Elijah's successor, restored the Shunammite's son.
 
-[PD47]
+## [PD47]
 
 King Zedekiah Blinded
 
@@ -653,7 +653,7 @@ But God's promise to David, "Of the fruit of thy loins shall a king sit upon thy
 
 But the First Advent of Jesus did not fulfil this prophecy; for, although Jesus is the Messiah, He has not yet entered upon His Kingly office. Jesus began His service as a Priest—"He offered up Himself." His offering continues these nineteen hundred years. Since Pentecost He has been accepting and offering as His members such as present their bodies living sacrifices. (Romans 12:1.) These joint-sacrificers are promised, as "members of the Body of Christ," a share in the Messianic reign of a thousand years, for the blessing of Israel and the whole world.—Revelation 20:6.
 
-[PD48]
+## [PD48]
 
 Jerusalem Desolated Seventy Years
 
@@ -665,7 +665,7 @@ God explains that the seventy years' desolation following the taking of the Isra
 
 Bible students reason that if the entire number of Jubilees was to be seventy, and if the Jubilee cycles were forty-nine years each, then seventy cycles from the time the Jubilees were instituted would mark the beginning of the Antitypical Jubilee—the "Times of Restitution." This they reckon somewhere about the year A.D. 1874. Many hold that we are living in the time when the Antitypical Jubilee is being inaugurated; mankind will return gradually to all their rights and privileges for a thousand years. The present social unrest is incidental to the great change. We are living in the beginning of the New Era. Growing intelligence is bringing emancipation, and shortly the Messianic Kingdom will multiply the blessings and wipe out the curse.—Revelation 21:4,5.
 
-[PD49]
+## [PD49]
 
 Nebuchadnezzar's Dream Interpreted
 
@@ -677,7 +677,7 @@ The Divine interpretation of this dream, given through Daniel, explains that the
 
 The Stone represents God's Kingdom, which the clay on the feet of the Image imitated. The Stone represents God's Elect Church, gathered out from Jews and Gentiles, and from every nation and denomination, to constitute Messiah's Kingdom. Shortly, this Kingdom will be established in power and great glory, and the kingdoms of this world will disappear as by magic. Messiah's Kingdom will then grow until it fills the whole earth, and brings all things under its control, every wilful sinner being cut off in the Second Death.
 
-[PD50]
+## [PD50]
 
 Daniel's Dream-Another View
 
@@ -689,7 +689,7 @@ The first beast of Daniel's dream, a lion, represented Babylon; the second, a be
 
 A judgment scene was shown to Daniel, in which all these governments were disapproved, and the dominion taken from them and given to One who appeared like unto The Son of Man. The Kingdom given Him was a perpetual one, that all should serve and obey Him; and all beastly governments were destroyed.—Daniel 7:13-27.
 
-[PD51]
+## [PD51]
 
 King Belshazzar's Feast
 
@@ -701,7 +701,7 @@ Later on came Belshazzar's Feast, the handwriting on the wall and the fall of Ba
 
 Babylon is the symbolical name in Revelation for a great Ecclesiastical System. Its fall is described as accomplished through the drying up of the symbolical river Euphrates, that the way of the Kings of the East might be prepared—a Royal Priesthood, of which Christ is the Head. The river represents people and wealth.—Revelation 17:15.
 
-[PD52]
+## [PD52]
 
 King Darius and Cyrus
 
@@ -713,7 +713,7 @@ At the end of the seventy years of the desolation of Jerusalem, God stirred up t
 
 The romantic story of Queen Esther, wife of King Ahasuerus, follows the period of King Cyrus' decree.
 
-[PD53]
+## [PD53]
 
 The Valley of Dry Bones
 
@@ -723,7 +723,7 @@ The fulfilment of this prediction seems to be in progress now amongst the Jewish
 
 The Scriptures tell about the resurrection of the dead; that it will not be the body which dies that will be resurrected. The body returns to dust. In the morning of Messiah's Reign, God through Him will grant each of Adam's race "a body as it hath pleased Him." The saintly few will share in the First Resurrection, to glory, honor and immortality, the divine nature, far above angels. Then will come God's blessing upon the world, to give them Restitution—earthly bodies. It is manifestly much easier for God to give as He purposes, a new body, than, as we once surmised, to gather each atom of dust from every quarter to restore it as the same body. Not a passage of Scripture mentions the resurrection of the body, but many passages mention the resurrection of the soul, which will be awakened and given a new body, earthly for the earthly class, Heavenly for the Heavenly class.—1 Cor. 15:37-40.
 
-[PD54]
+## [PD54]
 
 The Logos Made Flesh
 
@@ -737,7 +737,7 @@ The literal translation of John 1:1 throws much light upon a subject hitherto da
 
 Next in the Divine Program was the annunciation to Mary, then, the greatest event of history, the birth of our Redeemer.
 
-[PD55]
+## [PD55]
 
 Tidings of Great Joy
 
@@ -749,7 +749,7 @@ No wonder the angels rejoiced to announce to the shepherds the Logos made flesh�
 
 The "Peace on Earth, good-will to men" prophecy has not yet been fulfilled, but it is nearing. The birth of the Babe was one step toward it; the death on the cross was another; the glorious resurrection and ascension of the Logos again to the Spirit plane were other steps. The selection of the Church as Messiah's Bride is another, nearly completed. The Messianic Kingdom will complete the blessed prophecy.
 
-[PD56]
+## [PD56]
 
 John the Forerunner
 
@@ -761,7 +761,7 @@ John's Baptism symbolized cleansing from defilement, and was preached to the Jew
 
 When the call began to go to the Gentiles, several at Ephesus believed and were baptized by John's Baptism, as though they had been Jews. This was a mistake. At St. Paul's word they were rebaptized, into Christ's death. Gentiles needed to be baptized directly into Christ's death.—Acts 18:25; 19:3-5; Romans 6:3; 11:17-25.
 
-[PD57]
+## [PD57]
 
 The Baptism of Jesus
 
@@ -773,7 +773,7 @@ In this matter the followers of Jesus copy Him. They are baptized into His death
 
 As Jesus came up out of the water, the heavens [higher things] were opened to Him. Heavenly Truths became clearer. He could understand the "deep things of God." (1 Corinthians 2:10.) This enlightenment came by the receiving of the Holy Spirit. So His followers received a measure of the Spirit, begetting them as sons of God, joint-heirs with Christ. They also are illuminated.—Hebrews 10:32.
 
-[PD58]
+## [PD58]
 
 Gospel of the Kingdom
 
@@ -787,7 +787,7 @@ When, therefore, the election of the Spiritual Seed of Abraham shall be accompli
 
 Then the blindness of Israel will be removed, and the blessings of the New Dispensation will come to them, and through them to all the families of the Earth, as God promised. That the Church is the Spiritual Seed of Abraham, to bless Natural Israel and the world, is clearly shown in Galatians 3:16,29.
 
-[PD59]
+## [PD59]
 
 Parables of the Kingdom
 
@@ -803,7 +803,7 @@ The Wheat-field parable of the Kingdom represents the Church during this Age. Th
 
 The parable of the Talents represents how each consecrated disciple of Jesus is a steward of his own talents, and that according to his faithfulness will be his share in the Kingdom. Faithfulness in using the few talents of the present will bring great opportunities for blessing the world in the next Age. "I will make thee ruler over many things."—Matthew 25:21.
 
-[PD60]
+## [PD60]
 
 The Prodigal Son
 
@@ -817,7 +817,7 @@ The Rich man, the Jewish nation, died to his great blessings. Nationally he fell
 
 Lazarus also died to his condition of disfavor, and found himself in "Abraham's bosom"—a child of Abraham. Thus the Gentiles have become Abraham's Seed, and heirs of the Spiritual part of the Abrahamic Promise.—Galatians 3:29.
 
-[PD61]
+## [PD61]
 
 Not Dead But Sleepeth
 
@@ -829,7 +829,7 @@ This word sleep has long been used as symbolical of death. "Abraham slept with h
 
 These sleep neither in Heaven, purgatory nor a hell of torment. The Bible declares, "They that sleep in the dust of the earth shall awake," some to shine as stars, and others to be in contempt and shame, until they have demonstrated their repentance and loyalty.—Daniel 12:2.
 
-[PD62]
+## [PD62]
 
 Capernaum "Cast Down to Hell"
 
@@ -841,7 +841,7 @@ Bible students are coming to see that the Day of Judgment has been greatly misun
 
 The first Judgment Day was in Eden. Father Adam because of disobedience was sentenced to death. For six thousand years his race has been under that sentence. Jesus died to release all from that sentence, and to grant to all an opportunity of everlasting life. Only a faithful few, an Elect class, have yet been blessed. Their judgment, or trial, is in advance of the world, that they may be with Jesus judges of the world during the world's trial, or Judgment Day—the thousand years.—1 Corinthians 6:2; Acts 17:31.
 
-[PD63]
+## [PD63]
 
 Sheep and Goats Parable
 
@@ -855,7 +855,7 @@ Gehenna was earlier called Tophet. When Israel became idolatrous, the image of M
 
 Our pious fathers provided worse idols for us—Creed-idols! To these we were taught to sacrifice millions of heathens, and non-elect infants. But their day is gone! Thank God! Saner views of God are ours, and a truer interpretation of the Bible.
 
-[PD64]
+## [PD64]
 
 Kingdom Work Illustrated
 
@@ -873,7 +873,7 @@ The opening of the blind eyes and of the deaf ears represented the greater fact 
 
 Our Lord's Transfiguration on the Mount was another illustration of the Kingdom. His disciples knew not whether it was a reality or a vision, until Jesus said, "Tell the vision to no man until The Son of Man be risen from the dead." Later, St.Peter declared that what they saw in the holy mount represented Messiah's Kingdom.—2 Peter 1:16-18.
 
-[PD65]
+## [PD65]
 
 Hosanna in the Highest
 
@@ -887,7 +887,7 @@ The Pharisees, who did not believe, thought the procedure sacrilegious, and told
 
 Cleansing the Temple of money-changers and merchants followed our Lord's triumphal entry into the city.
 
-[PD66]
+## [PD66]
 
 The Cost of the Kingdom
 
@@ -903,7 +903,7 @@ Two dear disciples asked to sit next Jesus on the Throne of His Kingdom. The Mas
 
 Those loving disciples answered that they were ready for anything, with the Master's help. He assured them and us that He will furnish trials and assistances, and that if faithful to the end, we shall have a crown of life. But the honors and glories of the Kingdom will not be determined by grace, but by Justice.—Matthew 20:23; Revelation 3:21; 2:10.
 
-[PD67]
+## [PD67]
 
 The Memorial Supper
 
@@ -919,7 +919,7 @@ The disciples neglected to wash each other's feet or even the Master's. Jesus pe
 
 After the Supper, Jesus with the Eleven went to Gethsemane, where Judas betrayed Him to the officials with a kiss. Then followed the memorable closing scenes of our Lord's life.
 
-[PD68]
+## [PD68]
 
 "Ecco Homo!"—Behold the Man!
 
@@ -931,7 +931,7 @@ Jesus was not the mob's ideal of a king. Had He been coarse, vulgar, a boaster, 
 
 Humanity fails to realize that God's purpose in Christ and His followers has been to prepare them by meekness, gentleness, patience, long-suffering and love for the glorious work of Messiah's Kingdom, to bless all mankind. Present experiences are necessary, the Bible declares, that this Royal Priesthood may be, later on, a sympathetic Priesthood in respect to mankind.—Hebrews 2:10; 3:1; 5:8-10; 12:11.
 
-[PD69]
+## [PD69]
 
 The Dying Thief's Hope
 
@@ -947,7 +947,7 @@ After this defense the penitent thief turned to Jesus, saying, Lord, if You are 
 
 The misplacement of the comma in our common English Version has thrown us all astray. Evidently Jesus did not go to Paradise that day, because Paradise is not yet established. Furthermore, three days after, when He arose from the dead, He said to Mary, "I have not yet ascended unto My Father." St.Peter tells us that He was dead and that His soul was raised from the dead on the third day. (Acts 2:31.) "All people" are to be blessed by Messiah's Kingdom, but penitence prepares for quicker blessings and fewer "stripes."
 
-[PD70]
+## [PD70]
 
 "Quickened in Spirit"
 
@@ -959,7 +959,7 @@ Later the same day, two of them journeyed to Emmaus. They were conversing eagerl
 
 The same evening many of them were gathered in the upper room discussing the remarkable events of the day, the doors being shut, yea, bolted, for fear of the Jews. Suddenly while the doors were still shut, Jesus appeared in their midst, still differently. This time He appeared like His former self. Even this affrighted them, though He told them that what they saw was flesh and blood, and proved it by eating. He was no longer the fleshly Jesus; in His resurrection He returned to the spirit condition. (1 Corinthians 15:44.) But, He had power to materialize, as the holy angels (and Himself, before made flesh) had done.
 
-[PD71]
+## [PD71]
 
 St. Thomas the Doubter
 
@@ -973,7 +973,7 @@ Jesus appeared to His followers three times on His resurrection day, and five ti
 
 Saul of Tarsus caught a glimpse of the risen, glorified Jesus, unveiled by flesh, shining above the brightness of the sun at noonday, and the brief glimpse cost him his eyesight. If Jesus had thus appeared to His disciples during the forty days after His resurrection, they would have been alarmed, bewildered, unable to comprehend the matter. St. Paul refers to his glimpse of Jesus, saying, "He was seen of me as one born before the time." His words are explained to mean that all of God's people, the Church of the First-borns, are to be born into spirit conditions by their resurrection. Thus changed they will see Messiah as He is, in His great glory. But Saul saw Him before the time.—1 John 3:2.
 
-[PD72]
+## [PD72]
 
 The Pentecostal Rest
 
@@ -983,7 +983,7 @@ None could enter into this true Sabbath rest, until Jesus had opened the way. Hi
 
 Under Jesus' direction, the Apostles, His followers, were not to begin their work until they received the Pentecostal blessing—the Holy Spirit—the evidence of their acceptance as sons of God. The only thing they did during that time before their own acceptance, was the choosing of a successor for Judas' place; but evidently God never recognized their choice. In His own due time God brought forth St. Paul to be the twelfth Apostle—one of the twelve foundation stones of the New Jerusalem. (Revelation 21:14.) The error of supposing Apostolic Succession in the Church's bishops was a costly one. It led to many grievous errors.
 
-[PD73]
+## [PD73]
 
 Pentecostal Preaching
 
@@ -997,7 +997,7 @@ Thousands of the holiest Jews by obedience to God's command came yearly to Jerus
 
 There will yet be a second Pentecostal blessing. Only the special servants and handmaids of the Lord share the first and attain the Kingdom. Under Messiah's Kingdom God's Spirit will be poured out on all flesh. They will see that of which their ancients prophesied.—Joel 2:28,29; Acts 2:16-18.
 
-[PD74]
+## [PD74]
 
 God's Chosen Vessel
 
@@ -1011,7 +1011,7 @@ St. Paul became the successor of Judas. There were to be twelve Apostles of the 
 
 St. Paul is the most prominent amongst the Apostles, all of whom were glorious characters, especially chosen of God for His special service. Like the other Apostles, St. Paul had nothing to say respecting an eternity of torture for anybody. He declared that those ultimately found unworthy should "be punished with everlasting destruction." It is St. Paul who especially set forth that Jesus must come a second time, and then must reign until He shall have put all enemies under His feet. Through this noble mouthpiece Jesus sent us particulars of the resurrection of the just and the unjust, the "change" of the Church at Christ's Second Coming, the character of Antichrist, etc. If St. Paul's Epistles were omitted, how great would be our ignorance on many subjects!
 
-[PD75]
+## [PD75]
 
 Gentiles Fellow-Heirs
 
@@ -1023,7 +1023,7 @@ Three messengers were sent to fetch St. Peter. Meantime God prepared the Apostle
 
 While St. Peter was speaking, these consecrated people, drinking in the Message, fully accepted the terms of discipleship. Then God gave a manifestation of His acceptance of them by the gift of the Spirit, such as was common to all Christians at the beginning of this Age. St. Peter, astonished, then said, If these have received the Holy Spirit, who can forbid them water baptism, which is only a symbol of their consecration to be dead with Christ? Here Gentiles first began to be grafted into the "Olive Tree" of Romans 11:17.
 
-[PD76]
+## [PD76]
 
 The Church at Antioch
 
@@ -1035,7 +1035,7 @@ Not long after this, the terrible persecutions of Nero and Diocletian came upon 
 
 Why did God permit persecutions? The answer is that testings of faith and loyalty to God are as necessary to Jesus' followers as they were to Himself, and for the same reason—to develop and crystallize character. These corresponded to Jesus' own persecution and crucifixion. Thus He explained, saying, "It was necessary that The Son of Man should suffer and enter into His glory." The Elect walk in His steps.
 
-[PD77]
+## [PD77]
 
 Berean Bible Students
 
@@ -1045,7 +1045,7 @@ Bible students in our day have much advantage over these. We have convenient che
 
 Bible students today are encouraged also when they consider that the Bible distinctly teaches that when men shall be running to and fro, and world-wide knowledge shall be increased, then the Wise Virgins, the Lord's people, will understand certain features of the Divine Plan previously kept hidden by Divine intention. They perceive that we are in this day of running to and fro by every means of conveyance, and that free schools, compulsory education, etc., are bringing the foretold increase of knowledge. These things mark the time for the wise of God's people to understand the Bible. How needful for this special light, when so many are falling away from all faith in the Bible, under the teachings of so- called Higher Criticism, which denies that the Bible is the Divinely inspired Message of God! (Daniel 12:1-10.) We should not only awake, but "put on the whole armor of God."
 
-[PD78]
+## [PD78]
 
 Apostolic Succession
 
@@ -1055,7 +1055,7 @@ Pope Pius X realizes that the people no longer regard the Bishops as inspired au
 
 The Church, after the death of the Apostles, not having the conveniences of Bibles and education, looked too implicitly to their Bishops, or Pastors, and without authority accredited them with Divine inspiration similar to The Twelve. After two hundred years the mistake was partially recognized, and an attempt was made to rectify it, but in the wrong direction. It was found that the different Bishops taught widely different, contradictory doctrines. It was realized that these contradictions were not inspired by the Holy Spirit. The Emperor Constantine (not baptized) called the Nicene Council of all the "Apostolic Bishops," at Nicea, A.D. 325. About one- third, 384, came. These were commanded to decide on a Creed. They wrangled for months. Then the Emperor decided and the Nicean Creed was the result. The Emperor's edict was that all not consenting to it should be exiled.
 
-[PD79]
+## [PD79]
 
 "The Holy Roman Empire"
 
@@ -1067,7 +1067,7 @@ This entire theory and its Systems received a severe blow when Napoleon Bonapart
 
 Bible students are generally agreed that Church and State union is contrary to the spirit of the Bible, an error of the Dark Ages; that the Church of Christ is not to reign with the princes of the Earth, nor to be married to them, but to wait for her marriage till the Second Coming of her Redeemer, to be united with Him in the First Resurrection. Then she shall reign with Him forever.—Revelation 19:7; 20:6.
 
-[PD80]
+## [PD80]
 
 Crusades and Crusaders
 
@@ -1079,7 +1079,7 @@ Some day it will be owned that Christendom today is as foolish in some respects 
 
 How much better it will be when the Word of God is fully accepted, and when its spirit of Justice and Love will govern the world! Then the wealth and energy wasted in Crusades, Dreadnaughts and armament will be used to the general betterment of the people. Only Messiah's Kingdom can restore man to God's image and make God's footstool glorious.
 
-[PD81]
+## [PD81]
 
 Huss, Wycliffe, Tyndale Etc.
 
@@ -1089,7 +1089,7 @@ Fortunately there are always advanced thinkers on all lines. Such are generally 
 
 Later on, Cranmer, Latimer and Ridley, once associated with the Roman Hierarchy, but subsequently with the English Hierarchy, were publicly burned, because of their change of faith. In the light of today we see less difference between the two Hierarchies. Both Catholics and Protestants agree in condemnation of the atrocities of the past, perpetrated in the name of our Redeemer, one of whose titles is "Prince of Peace," and who admonished, "Blessed are the peacemakers, for they shall be called the children of God." Thank God! Our mental eyes, with clearer light, see greater lengths and breadths and heights and depths of Love Divine!
 
-[PD82]
+## [PD82]
 
 Luther, Zwingli, Melanchthon
 
@@ -1101,7 +1101,7 @@ But one day he chanced to see a Latin copy of the New Testament. His curiosity l
 
 Those holy, honest-hearted Reformers only partially comprehended the Bible. Much of the smoke of superstition and bigotry still affected their mental eyes. Nor have we gotten out of the fog yet. Thank God, however, Bible study is reviving, influencing people of every denomination. Let us remember that only the few of old were able to read. A Bible cost a fortune. It was thought useless because of erroneous trust in Bishop-Apostles and their Creeds.
 
-[PD83]
+## [PD83]
 
 Tetzel Selling Indulgences
 
@@ -1117,7 +1117,7 @@ Protestants, and some Catholics, have assumed that these Indulgences are permits
 
 Amongst Bible students today, there seems to be a growing conviction that the Bible teaches that there is no consciousness in death—that the awakening moment in the Resurrection Morning will connect up with the dying thought. The proof- texts for Purgatory they apply to saints in this life, to the world's "stripes" in the next Age, and to the "time of trouble."
 
-[PD84]
+## [PD84]
 
 The Holy (?) Inquisition
 
@@ -1131,7 +1131,7 @@ The mob spirit, the lynching spirit, is but a less legal form of "The Holy Inqui
 
 Evidences multiply that the mob spirit, the Inquisition spirit is growing. All should be on guard.
 
-[PD85]
+## [PD85]
 
 Calvin and Servetus
 
@@ -1143,7 +1143,7 @@ Others burned at the stake usually had the fuel piled at their feet. The flames 
 
 It seems remarkable that only now we are realizing that a man so deficient in the spirit of his Master as to murder his brother, should not be an accepted teacher of the Word of God and its spirit. Only now are Bible students realizing that Brother Calvin was not the inventor of the doctrine of Election, but merely of the doctrine that all the non-elect would suffer everlastingly. Now we see that the terms, "the Elect," "the very Elect," are Bible terms! and that those who make their calling and election sure, will be glorified in the First Resurrection. Now we see that the Elect will be associated with Jesus in His Kingdom, which will bless the non-elect—"all the families of the Earth."—Galatians 3:29.
 
-[PD86]
+## [PD86]
 
 The Wesleys Mobbed
 
@@ -1157,7 +1157,7 @@ Wesley uncovered another precious Bible truth. He declared Calvin's doctrine imp
 
 Now we see the connecting link between Election and Free Grace. God's Election of a saintly Kingdom class is the work of this Age. The Elect in glory will in the next Age extend God's Free Grace to all.—Romans 8:28,29; Revelation 22:17.
 
-[PD87]
+## [PD87]
 
 Our Modern Temples
 
@@ -1167,7 +1167,7 @@ In the days of Jesus and the Apostles, it was not considered "Christian work" to
 
 While using these modern Temples, let us not forget that they are not the real Temple, or Church. It is composed of the saints of God, who day by day are seeking to walk in the footsteps of Jesus, in the service of the Truth, "doing good to all men as they have opportunity, especially to the household of faith." If inclined to criticize our forefathers for building costly Cathedrals while neglecting the Bible, let us remember that coming generations may make similar or worse comments on us for building scores of costly Dreadnaughts for injury to our fellows. With what shame we will look back upon our own faults! The thought should make us humble.
 
-[PD88]
+## [PD88]
 
 Rejected and Despised
 
@@ -1179,7 +1179,7 @@ The Christian Commonwealth of the same, said: "On either side passes the heedles
 
 The passers-by represent the non-elect, whose only hope lies in the Kingdom of Messiah. The Elect in this picture are represented in the person of the suffering Savior—members of the Body of Christ, the Church. "He that despiseth you despiseth Me." These faithful members of the Body of Christ are not confined to one denomination, but constitute the saintly ones of every church and outside of every human system. They are the "Wise Virgin" class, being fitted by ignominy for the Heavenly Kingdom, and its great work of blessing humanity—the non-elect.
 
-[PD89]
+## [PD89]
 
 Daniel in the Critics' Den
 
@@ -1193,7 +1193,7 @@ This unbelief advances like a mighty wave, and its influence is sweeping away al
 
 Even now, Labor, like the blind giant Samson, is groping for the pillars whose fall will overthrow present conditions.
 
-[PD90]
+## [PD90]
 
 "Many Shall Run To and Fro"
 
@@ -1209,7 +1209,7 @@ Are we not in the midst of the running to and fro which this prophecy predicted?
 
 Who but God could have known and foretold this marked peculiarity of our day? Jesus quoted a part of this prophecy.
 
-[PD91]
+## [PD91]
 
 "Knowledge Shall Be Increased"
 
@@ -1221,7 +1221,7 @@ How wonderful that God foreknew all these things and foretold them through Danie
 
 Year by year we see the Earth preparing for full inhabitation. Recent earthquakes closed some and opened other channels of the Japan Stream, affecting the climate of Alaska and the Arctic zone remarkably. Gradually the glaciers in the form of icebergs are running out and dissolving in the more Equatorial waters. Gradually the Earth is preparing to blossom as the rose. Gradually the curse will be removed and the blessing of God will be substituted.—Isaiah 35:1.
 
-[PD92]
+## [PD92]
 
 "A Time of Trouble"
 
@@ -1231,7 +1231,7 @@ The prophecy declares that while men are running to and fro and knowledge is inc
 
 We need not detail the coming trouble. Everybody sees it. It will be a battle between giants—on the one side financial giants, trusts, etc.; on the other side gigantic labor organizations. Both parties are preparing. Both parties expect to fight to the finish. Both parties expect to win. Both parties will be disappointed, for both will lose. The Bible predicts that the result will be most terrible—anarchy—"a time of trouble such as never was!" We can but imperfectly surmise the details of the trouble, but the Scriptures imply that it will include social, financial, political and religious institutions. The anarchy of the French Revolution, and the anarchy which overthrew the Jewish nation, A.D. 70, are Scriptural illustrations of what may be expected soon. The Bible counsels Meekness and Justice as safeguards.—Zephaniah 2:3.
 
-[PD93]
+## [PD93]
 
 Catholic, Militant, Triumphant
 
@@ -1243,7 +1243,7 @@ The Church's warfare in the present time is to "fight a good fight of faith." It
 
 The Church Triumphant will be invisible to men because changed in the First Resurrection and perfected on the spirit plane. As St. Paul declares, "We must all be changed, for flesh and blood cannot inherit the Kingdom of God." It will operate through earthly representatives, the Worthies of the past—Abraham, Isaac and Jacob and all the Prophets.
 
-[PD94]
+## [PD94]
 
 New Heavens and New Earth
 
@@ -1253,7 +1253,7 @@ St. Peter describes the passing away of the present ecclesiastical Heavens and s
 
 The new spiritual Heavens of the future will be Christ and the Church in heavenly glory and power. As God's promised Kingdom, it will rule the Earth, blessing and uplifting the non- elect of every nation, people, kindred and tongue. The new Earth will be the new social order which will come into being at that time, under the direction and guidance of the new Heavens—the Messianic Kingdom.—Matthew 6:10.
 
-[PD95]
+## [PD95]
 
 Earth Restored, Perfected, Complete
 
@@ -1265,7 +1265,7 @@ Already we see beginning the Restitution blessings promised in prophecy. Yet we 
 
 If human skill is able to produce such beautiful fruits and flowers as are now manifest on every hand, what may we not expect will be the condition of the perfect earth when the "curse" shall be fully removed by the glorious Redeemer? Surely it will be "the desire of all nations."—Haggai 2:7.
 
-[PD96]
+## [PD96]
 
 Hallelujah Chorus and Ages to Come
 
